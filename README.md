@@ -7,14 +7,15 @@ The generated passwords will be displayed below the button in separate sections.
 
 
 # Technologies Used
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 
 # What I Learned
 During the development of this project, I learned:
+
 How to create a basic HTML structure for a web page.
 How to style the web page using CSS to achieve a desired layout and appearance.
 How to use JavaScript to generate random passwords based on specified criteria.
-How to manipulate the DOM (Document Object Model) using JavaScript to display the generated passwords on the web page.
+How to manipulate the DOM using JavaScript to display the generated passwords on the web page.
