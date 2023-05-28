@@ -1,0 +1,51 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #f3f3f3;
+    background-color: #1F2937;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+h3{
+    color: rgba(255, 255, 255, 0.44);
+}
+
+hr {
+    border: none;
+    height: 4px;
+    background-color: rgba(0, 0, 0, 0.802);
+    margin: 20px 0;
+}
+
+button {
+    padding: 20px;
+    background-color: #10B981;
+    color: white;
+}
+
+.passwords {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.password {
+    text-align: center;
+}
